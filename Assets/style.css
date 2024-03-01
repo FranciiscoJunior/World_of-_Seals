@@ -96,12 +96,12 @@ a {
 }
 
 .section__text-inline {
-    margin-top: 6rem;
+    margin-top: 15rem;
     text-align: left;
 }
 
 .section__text-inline > p{
-    margin-top: 1.5rem;
+    margin-top: 2.5rem;
 }
 
 #hangouts img {
@@ -158,4 +158,4 @@ footer {
     color: #FFFFFF;
     padding: 24px;
     text-align: center;
- }
+}
